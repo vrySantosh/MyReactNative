@@ -32,7 +32,7 @@
 
 //Due to Closure scope leakes 
 
-componentDidUpdate(prevProps) {
+componentDidUpdate (prevProps) {
 
     const clockPropsHasChanged = [‘hours’, ‘mins’, ‘sec’, ‘countdown’].some(
   
@@ -61,7 +61,7 @@ componentDidUpdate(prevProps) {
           }
   
           if (mins < 0) {
-  
+            
             mins = 59;
   
             hours -= 1;
