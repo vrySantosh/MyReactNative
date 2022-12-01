@@ -5954,6 +5954,11 @@ react-native-safe-area-context@^3.1.9:
   resolved "https://registry.npmjs.org/react-native-safe-area-context/-/react-native-safe-area-context-3.4.1.tgz"
   integrity sha512-xfpVd0CiZR7oBhuwJ2HcZMehg5bjha1Ohu1XHpcT+9ykula0TgovH2BNU0R5Krzf/jBR1LMjR6VabxdlUjqxcA==
 
+react-native-shared-group-preferences@^1.1.23:
+  version "1.1.23"
+  resolved "https://registry.npmjs.org/react-native-shared-group-preferences/-/react-native-shared-group-preferences-1.1.23.tgz"
+  integrity sha512-ZZyLNksXtuQU2AIe0RDNvjYewy2c8EVDNuA7DE141/43CaWjHScIqyQ+vOhQDVscAq/9XpfYWHQmeu2uteRqCg==
+
 react-native-size-matters@^0.3.1:
   version "0.3.1"
   resolved "https://registry.npmjs.org/react-native-size-matters/-/react-native-size-matters-0.3.1.tgz"
@@ -5988,7 +5993,7 @@ react-native-webview@^11.25.0:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
 
-react-native@*, react-native@0.69.6:
+react-native@*, react-native@>=0.41.2, react-native@0.69.6:
   version "0.69.6"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.69.6.tgz"
   integrity sha512-wwXpqM+12kdEYdBZCJUb5SBu95CzgejrwFeYJ78RzHZV/Sj6DBRekbsHGrDDsY4R25QXALQxy4DQYQCObVvWjA==

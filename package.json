@@ -17,6 +17,7 @@
     "react-dom": "18.0.0",
     "react-native": "0.69.6",
     "react-native-elements": "^3.4.2",
+    "react-native-shared-group-preferences": "^1.1.23",
     "react-native-web": "~0.18.7",
     "react-native-webview": "^11.25.0"
   },
