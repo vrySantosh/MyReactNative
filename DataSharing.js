@@ -3,6 +3,7 @@
 /** Data sharing b/w apps in the iOS and Android 
         Used to store the data in centralized location for multiple apps
         eg: a game where the coins are shared b/w the multiple games.
+            for shared passwords, setting or user preferences
 
         To Know:
             Doesn't work with expo
